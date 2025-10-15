@@ -112,26 +112,4 @@ gcc -pthread client.c -o client
 
 ---
 
-## 📸 Example Gameplay (CLI)
-```
-> declare H4
-You declared: 4 of Hearts
-> cheat
-You accused Player 2 of cheating!
-> take
-You took a card from the deck.
-```
-
----
-
-## 👥 Authors
-**Roy Salah**  
-Ben-Gurion University of the Negev  
-2023
-
----
-
-## 📟 License
-This project is for **educational purposes**.  
-Feel free to fork, learn, and expand upon it.
 
